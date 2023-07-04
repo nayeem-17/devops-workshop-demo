@@ -82,3 +82,6 @@ Just follow the instructions and we'll be able to add our server as a github run
   We've deployed the application in the server. You can visit the application using this link:
 
 http://54.170.217.14/hello
+
+
+<!-- nohup ./run.sh > /dev/null 2>&1 & -->
