@@ -4,7 +4,7 @@ const app = express();
 const port = 3000;
 
 app.get('/hello', (req, res) => {
-    res.send('Hello, world! This is mehrab, this is ci/cd test');
+    res.send('Hello, world!');
 });
 
 app.get('/bye', (req, res) => {
@@ -19,3 +19,4 @@ module.exports = {
     app,
     server
 }// Export the app for testing
+
