@@ -81,9 +81,9 @@ http://54.170.217.14/hello
   ### Steps
   - Fork this repository.
   - Go to your repository settings.
-  - Add your server as a GitHub runner (see below).
-## How to add our server as a GitHub runner
-To add our server as a GitHub runner, we need to follow these steps: We can see this when we go to our GitHub repository-> settings-> runner-> self-hosted runner 
+  - Add your server as a GitHub actions runner (see below).
+## How to add our server as a GitHub actions runner
+To add our server as a GitHub actions runner, we need to follow these steps: We can see this when we go to our GitHub repository-> settings->actions -> runner-> self-hosted runner 
 ![this](pics/self-hosted-runner.png)
 Just follow the instructions and we'll be able to add our server as a GitHub runner.
 
