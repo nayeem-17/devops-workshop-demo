@@ -1,6 +1,10 @@
 ## Buet Cse fest 2023
 ## DevOps Hackathon
 
+Here is the workflow 
+
+![workflow](pics/workshop-cicd.png)
+
 There's a demo node application in the `index.js` file. There are two routes.
 ```
 \hello
